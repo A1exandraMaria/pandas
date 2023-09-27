@@ -4,3 +4,5 @@ def addtwo (**kwargs):
 
 addtwo(summ=8,nutt=9)
 
+
+#positional and keyword arguments
